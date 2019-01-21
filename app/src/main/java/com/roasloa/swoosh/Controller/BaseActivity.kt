@@ -1,4 +1,4 @@
-package com.roasloa.swoosh
+package com.roasloa.swoosh.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
